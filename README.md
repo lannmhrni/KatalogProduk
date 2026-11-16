@@ -5,8 +5,6 @@ Katalog Produk adalah aplikasi manajemen produk berbasis JavaFX dan Maven yang d
 
 Aplikasi ini menggunakan **SQLite sebagai database lokal** untuk menyimpan data produk secara permanen. Dengan demikian, data yang telah disimpan tidak akan hilang ketika aplikasi ditutup dan tetap tersedia saat aplikasi dijalankan kembali.
 
----
-
 ## 📋 Fitur Utama
 
 1. **Tambah Produk**: Menambahkan produk baru melalui form input nama produk, harga, dan pilihan foto produk.
