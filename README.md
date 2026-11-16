@@ -16,8 +16,6 @@ Aplikasi ini menggunakan **SQLite sebagai database lokal** untuk menyimpan data 
 7. **Informasi Jumlah Produk**: Menampilkan total produk yang tersimpan dalam katalog.
 8. **Status Operasi**: Memberikan informasi ketika proses penyimpanan produk berhasil dilakukan.
 
----
-
 ## 🚀 Cara Menjalankan Aplikasi
 
 ### 1. Clone Repository
@@ -54,8 +52,6 @@ mvn clean javafx:run
 Tunggu hingga proses build selesai. Jika berhasil, aplikasi Katalog Produk akan terbuka dan siap digunakan.
 
 **Catatan:** Pastikan Java Development Kit (JDK) dan Maven sudah terpasang serta konfigurasi JavaFX dan SQLite pada project sudah sesuai.
-
----
 
 ## 📸 Tampilan Aplikasi
 
